@@ -1,4 +1,4 @@
-### 👋 I'm Aliza Afzal
+### Hi, I'm Aliza Afzal
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Aspiring+AI%2FML+Engineer;Python+Developer;Passionate+about+AI+Projects)](https://git.io/typing-svg)
 
@@ -6,31 +6,44 @@ I'm a Computer Science student and aspiring **AI/ML Engineer** passionate about 
 
 My goal is to develop impactful AI solutions and continuously improve my skills in **Machine Learning, Deep Learning, and Computer Vision**.
 
+
 ---
+
+
+<div align="center">
 
 ### 💻 Core Focus & Active Projects
 
-My current work focuses on developing AI-based solutions and improving my programming and research skills.
+<p style="margin:0;">My current work focuses on developing AI-based solutions and improving my programming and research skills.</p>
 
-| Area                     | Technologies                                                    |
-| :----------------------- | :-------------------------------------------------------------- |
-| *Current Development*    | *Python, TensorFlow, Keras* (Building AI and ML based projects) |
-| *Active Skill Expansion* | Deep Learning, Computer Vision, Flutter                         |
-| *Established Skills*     | Python, NumPy, Pandas, scikit-learn, Git, GitHub                |
+<table style="border:3px double #0066FF; border-collapse: collapse; text-align: center; margin-top: 10px;">
+  <tr style="border-bottom:3px double #0066FF;">
+    <th style="padding: 10px 20px; border-right:3px double #0066FF;">Area</th>
+    <th style="padding: 10px 20px;">Technologies</th>
+  </tr>
+  <tr style="border-bottom:3px double #0066FF;">
+    <td style="padding: 10px 20px; border-right:3px double #0066FF;"><i>Current Development</i></td>
+    <td style="padding: 10px 20px;"><i>Python, TensorFlow, Keras</i> (Building AI and ML based projects)</td>
+  </tr>
+  <tr style="border-bottom:3px double #0066FF;">
+    <td style="padding: 10px 20px; border-right:3px double #0066FF;"><i>Active Skill Expansion</i></td>
+    <td style="padding: 10px 20px;">Deep Learning, Computer Vision, Flutter</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px 20px; border-right:3px double #0066FF;"><i>Established Skills</i></td>
+    <td style="padding: 10px 20px;">Python, NumPy, Pandas, scikit-learn, Git, GitHub</td>
+  </tr>
+</table>
 
----
+</div>
 
-### 🌐 Connect & Collaborate
+###  🌐 Connect & Collaborate
 
 I am always open to **collaboration, internships, and research opportunities** in the fields of **AI, Machine Learning, and Software Development**.
 
 * *Email:* [alizaafzal1232@gmail.com](mailto:alizaafzal1232@gmail.com)
 
-<p align="left">
-<a href="https://www.linkedin.com/in/alizaafzal/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-</p>
+
 
 ---
 
@@ -53,20 +66,25 @@ The technologies and tools I frequently use:
 
 ### 📊 GitHub Activity
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alizaafzal582004&show_icons=true&locale=en&layout=compact" alt="alizaafzal582004" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alizaafzal582004&show_icons=true&locale=en&layout=compact" alt="alizaafzal582004" />
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
-![Aliza's GitHub stats](https://github-readme-stats.vercel.app/api?username=alizaafzal582004\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alizaafzal582004&show_icons=true&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=alizaafzal582004\&theme=tokyonight)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=alizaafzal582004&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alizaafzal582004\&layout=compact\&theme=tokyonight)
-
----
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizaafzal582004&layout=compact&theme=tokyonight" />
+</p>
 
 
 ⭐ *Always learning, building, and exploring the world of Artificial Intelligence.*
