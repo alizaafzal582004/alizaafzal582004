@@ -69,13 +69,7 @@ The technologies and tools I frequently use:
 
 ---
 
-### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alizaafzal582004&show_icons=true&locale=en&layout=compact" alt="alizaafzal582004" />
-</p>
-
----
 
 # 📊 GitHub Stats
 
