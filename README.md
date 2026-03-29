@@ -80,14 +80,6 @@ The technologies and tools I frequently use:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alizaafzal582004&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=alizaafzal582004&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizaafzal582004&layout=compact&theme=tokyonight" />
 </p>
 
